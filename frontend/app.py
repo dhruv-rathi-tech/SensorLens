@@ -13,7 +13,7 @@ from backend.database import get_connection
 
 DATA_FILE = BASE_DIR / "data" / "processed" / "sensor_readings_clean.csv"
 QUALITY_FILE = BASE_DIR / "reports" / "data_quality_report.json"
-DEPLOY_URL = "https://share.streamlit.io/deploy?repository=dhruv-rathi-tech/sensor-data-analytics&branch=main&mainModule=frontend/app.py"
+DEPLOY_URL = "https://share.streamlit.io/deploy?repository=dhruv-rathi-tech/SensorLens&branch=main&mainModule=frontend/app.py"
 
 # Normalize Git module path on Windows to avoid backslash issues with Streamlit Cloud
 try:

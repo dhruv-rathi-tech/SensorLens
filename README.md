@@ -104,8 +104,8 @@
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/dhruv-rathi-tech/sensor-data-analytics.git
-cd sensor-data-analytics
+git clone https://github.com/dhruv-rathi-tech/SensorLens.git
+cd SensorLens
 python -m pip install -r requirements.txt
 ```
 
